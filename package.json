@@ -1,11 +1,16 @@
 {
-    "scripts": {
-        "dev": "vuepress dev",
-        "serve": "vuepress dev",
-        "build": "vuepress build"
-    },
-    "dependencies": {
-        "global": "^4.3.2",
-        "http-server": "^0.11.1"
-    }
+  "name": "@shiftcode/translation-markup-website",
+  "description": "Translation Markup Website - Write faster and more maintainable translations.",
+  "private": true,
+  "version": "1.0.0",
+  "author": "Cainã Santos",
+  "scripts": {
+    "dev": "vuepress dev",
+    "serve": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "dependencies": {
+    "global": "^4.3.2",
+    "http-server": "^0.11.1"
+  }
 }
