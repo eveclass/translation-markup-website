@@ -1,6 +1,7 @@
 module.exports = {
   title: "Translation Markup",
   description: "Write faster and more maintainable translations.",
+  head: [["link", { rel: "icon", href: "/favicon.ico" }]],
   themeConfig: {
     search: false,
     nav: [

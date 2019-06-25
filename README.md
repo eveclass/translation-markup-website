@@ -1,12 +1,12 @@
 ---
 home: true
-heroImage: /assets/translation-markup-2.png
+heroImage: /assets/translation-markup.png
 actionLink: /sobre/introducao
 features:
-  - title: Scalable
+  - title: Scalable (and faster)
     details: Type each translation key only once. No more searching and scrolling across files for the right spot and keys.
-  - title: Faster
-    details: No more braces and quotes, type faster with YAML. No more repeating equal translations for different languages, for those, type the value just once.
+  - title: Cleaner (and faster)
+    details: No more braces and quotes, type faster and keep the file clearner with YAML.
   - title: Keep it Simple
     details: Stop organizing translation files by language and start organizing them by feature, module or the way you see fit.
 footer: MIT Licensed | Copyright © 2019 Shift Code
