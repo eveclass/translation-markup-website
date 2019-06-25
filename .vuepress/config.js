@@ -5,7 +5,7 @@ module.exports = {
     search: false,
     nav: [
       {
-        text: "Exemplos",
+        text: "Examples",
         link: "/examples/input-output-examples.html"
       },
       {
